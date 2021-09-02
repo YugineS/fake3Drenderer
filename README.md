@@ -1,2 +1,2 @@
 # fake3Drenderer
-maze rendering like in wolf3d
+fake 3d maze rendering like in wolf3d
